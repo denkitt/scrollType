@@ -427,3 +427,4 @@ const scroll = () => {
 initSmoothScrolling();
 // GSAP Scroll Triggers
 scroll();
+}
